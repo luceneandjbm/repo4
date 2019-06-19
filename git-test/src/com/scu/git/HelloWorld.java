@@ -8,4 +8,7 @@ public class HelloWorld {
         System.out.println("hello git");
 
     }
+    public static int f(int num){
+        return num*num;
+    }
 }
