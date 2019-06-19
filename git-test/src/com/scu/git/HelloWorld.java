@@ -6,9 +6,10 @@ public class HelloWorld {
         System.out.println("hello git");
         System.out.println("hello git");
         System.out.println("hello git");
-
+        // test
     }
     public static int f(int num){
+        System.out.println("hello git");
         return num*num;
     }
 }
